@@ -27,11 +27,14 @@
 
 <div align="center">
 
-https://github.com/tathagata48/vision-drone-sorter/raw/main/demo.mp4
+<a href="https://github.com/tathagata48/vision-drone-sorter/raw/main/demo.mp4">
+  <img src="demo-preview.gif" alt="Vision Drone Sorter — autonomous pick-and-place demo" width="760"/>
+</a>
 
 <br/>
+<br/>
 
-<sub><i>▶ If the inline player doesn't load, <a href="demo.mp4">click here to download / watch the demo</a>.</i></sub>
+<sub>▶ <b><a href="https://github.com/tathagata48/vision-drone-sorter/raw/main/demo.mp4">Watch the full video with audio</a></b> &nbsp;·&nbsp; <i>preview above is a condensed, silent loop</i></sub>
 
 </div>
 
